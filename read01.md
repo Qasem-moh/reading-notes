@@ -9,7 +9,7 @@ you Must use md or markdown rxtention
 <br>
 ### Expalin Tags<br>
 
-| tags        | maening     | explain      |
+| tags        | maening     |  explain      |
 | :---        |    :----:   |          ---: |
 | .MD          | markdown    | That's extenation for let browser what type of file   |
 | .markdown   | markdown        | same .md That's extenation for let browser what type of file  |
