@@ -42,3 +42,7 @@ _After Install Git In You Machine And Create Account In [GitHub](https://github.
 ***
 *open file by use Git Bashe ![](https://www.sitereq.com/uploads/Kanzi/postassets/fadysoliman160hotmailcom_3/git-bash-here-git-gui-here11222017022716.png)*
 ***
+** git status * to Show What Changes in work*
+git add . * To add All Changes to repo*
+git commit -m " yo Commit"
+git push origin main * to Push file* **
