@@ -1,7 +1,12 @@
 # reading-notes
 ## What's Markdow and How Writting MarkDown
 Thw Mark Down is style text on The Web and control in the how display element in Documents,<br>
-and format world (bold, italic, underline, throwline)<br>
+and format world 
+1.bold
+2. italic
+3.  underline
+4.   throwline
+
 you Must use md or markdown rxtention
 * name_file.md
 * name_file.markdown
