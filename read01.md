@@ -1,7 +1,7 @@
 # reading-notes
-## What's Markdow and How Writting MarkDown
+## What's Markdow and How Writting MarkDown :simple_smile:
 Thw Mark Down is style text on The Web and control in the how display element in Documents,<br>
-and format world <br>
+and format world :syringe: <br>
 1.bold<br>
 2. italic<br>
 3. underline<br>
@@ -21,9 +21,15 @@ you Must use md or markdown extention
 |#            |Big Headline   |Look like h1 in HTMl|
 |:---|:---|:---|
 <br>
-You can use Markdown most places around GitHub:<br>
-Can you Show This link:
+
+
+
+You can use Markdown most places around GitHub :octocat: 
+:<br>
+
 <br>
-[MarkdownSource](https://guides.github.com/features/mastering-markdown/)
+:+1: Can you Show This link :<br>
+<br>
+[MarkdownSource](https://guides.github.com/features/mastering-markdown/) <br><br>
 
 ***You Can Write It In GitHub Page and Show it in Your page***
