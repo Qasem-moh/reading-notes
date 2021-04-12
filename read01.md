@@ -8,12 +8,11 @@ you Must use md or markdown rxtention
 
 <br>
 ### Expalin Tags<br>
-|Tags   | Meanning     |
-|-------| -------------|
-|md     | markdown     |
-|#      | h1           |
 
-
+| Syntax      | Description | Test Text     |
+| :---        |    :----:   |          ---: |
+| Header      | Title       | Here's this   |
+| Paragraph   | Text        | And more      |
 You can use Markdown most places around GitHub:
 #### Can you Show This link
 [MarkDown](https://medium.com/markdown-monster-blog/getting-images-into-markdown-documents-and-weblog-posts-with-markdown-monster-9ec6f353d8ec)<br>
