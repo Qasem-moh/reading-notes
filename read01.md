@@ -6,6 +6,13 @@ you Must use md or markdown rxtention
 * name_file.md
 * name_file.markdown
 
+<br>
+### Expalin Tags<br>
+|Tags   | Meanning     |
+|-------| -------------|
+|md     | markdown     |
+|#      | h1           |
+
 
 You can use Markdown most places around GitHub:
 #### Can you Show This link
