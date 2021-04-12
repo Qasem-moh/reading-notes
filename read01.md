@@ -7,7 +7,7 @@ you Must use md or markdown rxtention
 * name_file.markdown
 
 <br>
-### Expalin Tags<br>
+### Expalin Tags <br>
 
 | tags        | maening     |  explain      |
 | :---        |    :----:   |          ---: |
