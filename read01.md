@@ -3,9 +3,9 @@
 Thw Mark Down is style text on The Web and control in the how display element in Documents,<br>
 and format world :syringe: <br>
 1.bold<br>
-2. italic<br>
-3. underline<br>
-4.   throwline<br>
+2. italic <br />
+3. underline <br />
+4.   throwline</br>
 <br>
 you Must use md or markdown extention
 * name_file.md
@@ -19,7 +19,7 @@ Expalin Tags
 | .MD          | markdown    | That's extenation for let browser what type of file   |
 | .markdown   | markdown        | same .md That's extenation for let browser what type of file  |
 |#            |Big Headline   |Look like h1 in HTMl|
-|:---|:---|:---|
+
 <br>
 
 
