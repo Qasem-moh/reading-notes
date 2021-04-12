@@ -7,5 +7,5 @@
 ![](https://3kllhk1ibq34qk6sp3bhtox1-wpengine.netdna-ssl.com/wp-content/uploads/2015/11/growth-mindset.png)
 
 
-[read01](https://qasem-moh.github.io/reading-notes/read01)
-[read02](https://qasem-moh.github.io/reading-notes/read02)
+[Read 01](https://qasem-moh.github.io/reading-notes/read01)
+[Read 02](https://qasem-moh.github.io/reading-notes/read02)
