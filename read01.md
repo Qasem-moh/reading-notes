@@ -12,7 +12,7 @@ you Must use md or markdown extention
 * name_file.markdown
 
 <br>
-### Expalin Tags 
+Expalin Tags
 
 | tags        | maening     |  explain      |
 | :---        |    :----:   |          ---: |
