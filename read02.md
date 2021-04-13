@@ -33,7 +33,7 @@ _GitHub It is very **important** for developers, programmers and professionals w
 
 _GitHub Is a Safe Place to include Your Projects and big Companies use it to save their projects._
 ***
-![](https://github.blog/wp-content/uploads/2020/09/GitHubCLI_SocialCard_VersionNumber_NoSubLine_v2.png?w=1200.png)
+![](https://github.blog/wp-content/uploads/2020/09/GitHubCLI_SocialCard_VersionNumber_NoSubLine_v2.png?w=1200.png )
 
 ### Learn Git and Git _GitHub
 
