@@ -23,7 +23,19 @@ _ In Html, you Can Add comments to let your Teams What you do here and tell you 
 ***
 Html has Three tags Are standard
 ![html tags](https://i.ibb.co/tCzTtGv/Screenshot-2021-04-13-025840.png)
-1. <html lang="en">
+1. **<html lang="en">**
 _That tell browser I'm Html Languae (for understanding language)_
-2. <head>
-_ _
+2. **<head>**
+_in head set meta tags and title for page and you and insert css file and javascript file_
+3. **<body>**
+_in the body you can set content to display in browser< but must Split page To Three parts **Header,main,footer**_
+in the _**Hrader**_ set nav bar and logo and name of page
+***
+in the _** main**_ set content such as **article** **section** and pargraph.
+***
+in the **footer** set copyright and who the author.
+**and close all tags**
+
+_And Add More tags In Main_
+***
+< ---------------------------------------------------------------- >
