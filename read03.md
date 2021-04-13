@@ -26,10 +26,10 @@ Html has Three tags Are standard
 1. **<html lang="en">**
 _That tell browser I'm Html Languae (for understanding language)_
 2. **<head>**
-_in head set meta tags and title for page and you and insert css file and javascript file_
+_in head set meta tags and title for page and you and insert css file and javascript file ![](https://i.ibb.co/jzLzDXW/1.png)_
 3. **<body>**
-_in the body you can set content to display in browser< but must Split page To Three parts **Header,main,footer**_
-in the _**Hrader**_ set nav bar and logo and name of page
+_in the body you can set content to display in browser< but must Split page To Three parts **Header,main,footer** ![](https://i.ibb.co/2KqMWRm/2.png)_
+in the _**Header**_ set nav bar and logo and name of page ![](https://i.ibb.co/k2vYsM7/4.png)
 ***
 in the _** main**_ set content such as **article** **section** and pargraph.
 ***
