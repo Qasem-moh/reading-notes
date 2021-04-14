@@ -65,9 +65,9 @@ Here [Operators](https://www.tutsmake.com/javascript-arithmetic-operators-exampl
 JavaScript Display Possibilities
 JavaScript can "display" data in different ways:
 
-* Writing into an HTML element, using **innerHTML.** <br>
-* Writing into the HTML output using **document.write().** <br>
-* Writing into an alert box, using **window.alert().** <br>
-* Writing into the browser console, using **console.log().** <br>
+* Writing into an HTML element, using *innerHTML.* <br>
+* Writing into the HTML output using *document.write().* <br>
+* Writing into an alert box, using *window.alert().* <br>
+* Writing into the browser console, using *console.log().* <br>
 ******
 
