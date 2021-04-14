@@ -24,11 +24,19 @@ var <variable-name>;
 
 var <variable-name> = <value>;
 
+
 var one = 1;       // variable stores numeric value
 
 var two = 'two';  // variable stores string value
 
 var three;       // declared a variable without assigning a value
+=======
+var one = 1; // variable stores numeric value
+
+var two = 'two';  // variable stores string value
+
+var three;  // declared a variable without assigning a value
+
 ***
 In the above example, we have declared three variables using var keyword: one, two and three. We have assigned values to variables one and two at the same time when we declared it, whereas variable three is declared but does not hold any value yet, so it's value will be 'undefined'.
 
@@ -37,6 +45,7 @@ Multiple variables can also be declared in a single line separated by comma.
 
 Example: Multiple Variables in a Single Line
 var one = 1, two = 'two', three;
+
 ***
 ## How To Use Object Methods in JavaScript
 _Objects in JavaScript are collections of key/value pairs. The values can consist of properties and methods, and may contain all other JavaScript data types, such as strings, numbers, and Booleans.
@@ -62,4 +71,5 @@ JavaScript can "display" data in different ways:
  *Writing into the browser console, using ** console.log().**
 
 
-********************************
+****
+a8
