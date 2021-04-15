@@ -9,6 +9,19 @@ _The logical operators are often used to help create a test expression that cont
 ***
 **A common way to show logical relationships is in truth tables.**
 ![](https://i.ibb.co/p0PsjDL/4.png)
+## && (AND)
+#### The AND operator is represented with two ampersands &&:
+result = a && b;
+
+
+
+
+
+
+
+
+
+*****
 ***
 _In classical programming, the logical OR is meant to manipulate boolean values only. If any of its arguments are true, it returns true, otherwise it returns false.
 In JavaScript, the operator is a little bit trickier and more powerful. But first, let’s see what happens with boolean values.
