@@ -12,6 +12,7 @@ _The logical operators are often used to help create a test expression that cont
 ## && (AND)
 #### The AND operator is represented with two ampersands &&:
 result = a && b;
+
 ![](https://i.ibb.co/0sMFpC9/11.png)
 **An example with if:**
 ![](https://i.ibb.co/84sYVcR/12.png)
@@ -33,10 +34,8 @@ Examples:_
 _We can also pass several values in a row. See how the first falsy one is returned:_
 ![](https://i.ibb.co/bQ2nGPj/15.png)
 
-
-
 *****
-***
+
 _In classical programming, the logical OR is meant to manipulate boolean values only. If any of its arguments are true, it returns true, otherwise it returns false.
 In JavaScript, the operator is a little bit trickier and more powerful. But first, let’s see what happens with boolean values.
 There are four possible logical combinations:_
