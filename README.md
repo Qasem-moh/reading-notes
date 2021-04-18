@@ -17,9 +17,7 @@ my phone: 0798534701
 [Read 04](https://qasem-moh.github.io/reading-notes/read04a) <br>
 [Read 04b](https://qasem-moh.github.io/reading-notes/read04b) <br>
 [Read 05](https://qasem-moh.github.io/reading-notes/read05) <br>
-<<<<<<< HEAD
 [Read 06](https://qasem-moh.github.io/reading-notes/read06) <br>
 [Color CSS](https://qasem-moh.github.io/reading-notes/color) <br>
-=======
-[Read 06](https://qasem-moh.github.io/reading-notes/read06) <br>
->>>>>>> 66c42d459f23e51f68cdc336a70804522bc5ee9e
+
+
