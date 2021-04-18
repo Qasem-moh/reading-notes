@@ -98,3 +98,17 @@ each individual task (and any information it needs to perform the task), rather 
 **3: CODE EACH STEP**
 _Each of the steps needs to be written in a programming language that the compu ter understands. In our case, this is JavaScript. As tempting as it can be to start coding straight away, it pays to spend time designing your script before you start writing it.
 ***
+## A BASIC FUNCTION
+### DECLARING A FUNCTION
+
+_to create a function, you give it a name and then write the statments needed to achive its task._
+![](https://i.ibb.co/4m0VbNP/3.png)
+**Calling Function**
+_Having Declared function, you can then execute all the statments between its curly braces with just one line of code._
+![](https://i.ibb.co/xszPh3K/5.png)
+***
+#### DECLARING FUNCTIONS THAT NEED INFORMATION
+_Sometimes a function needs specific information to perform its task. In such cases, when you declare the function you give it parameters. Inside the function, the parameters act like variables. 
+If a function needs information to work, you indicate what it needs to know in parentheses after the function name. 
+The items that appear inside these parentheses are known as the parameters of the function. Inside the function those words act like variable names._
+![](https://i.ibb.co/60WCvBS/7.png)
