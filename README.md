@@ -17,3 +17,4 @@ my phone: 0798534701
 [Read 04](https://qasem-moh.github.io/reading-notes/read04a) <br>
 [Read 04b](https://qasem-moh.github.io/reading-notes/read04b) <br>
 [Read 05](https://qasem-moh.github.io/reading-notes/read05) <br>
+[Read 06](https://qasem-moh.github.io/reading-notes/read06) <br>
