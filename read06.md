@@ -1,4 +1,7 @@
+
 ![](https://cdn3.vectorstock.com/i/1000x1000/93/37/gold-golden-alphabet-letter-js-j-s-logo-vector-25439337.jpg)
+=======
+
 # How JavaScript Makes Web Pages more Interactive
 _JavaScript is a text-based programming language used both on the client-side and server-side that allows you to make web pages interactive. Where HTML and CSS are languages that give structure and style to web pages, JavaScript gives web pages interactive elements that engage a user. Common examples of JavaScript that you might use every day include the search box on Amazon, a news recap video embedded on The New York Times, or refreshing your Twitter fee_
 ## ACCESS CONTENT
@@ -37,6 +40,7 @@ the viewport).
 ***
 **JavaScript**
 _encompasses amny of the traditional rules of programming._
+
 _it can make the web page fell interactive by respodingf to what the user does_
 ***
 ## HTML & CSS
@@ -56,3 +60,5 @@ Examples of some HTML elements:
 ***
 ![](https://www.tutorialrepublic.com/lib/images/html-element.png)
 ![](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTfPgyIc9NTjOMC9PgVCTUollz66IFbGWvwXI4IKpdOgHoiUKeIQuwqZIb7O6G-CwSsF4g&usqp=CAU.png)
+
+_it can make the web page fell interactive by respodingf to what the user does_
