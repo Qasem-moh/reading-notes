@@ -20,4 +20,3 @@ my phone: 0798534701
 [Read 06](https://qasem-moh.github.io/reading-notes/read06) <br>
 [Color CSS](https://qasem-moh.github.io/reading-notes/color) <br>
 [Read 09](https://qasem-moh.github.io/reading-notes/read09) <br>
-[201 Reading Notes](https://qasem-moh.github.io/reading-notes/read201.md) <br>
