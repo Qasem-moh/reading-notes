@@ -123,4 +123,13 @@ _Primitive parameters (such as a number) are passed to functions by value; the v
 _If you pass an object (i.e. a non-primitive value, such as Array or a user-defined object) as a parameter and the function changes the object's properties, that change is visible outside the function, as shown in the following example:_
 ![](https://i.ytimg.com/vi/bkKuqKASG_8/maxresdefault.jpg)
 
+**Function expressions**
+
+_While the function declaration above is syntactically a statement, functions can also be created by a function expression._
+
+_Such a function can be anonymous; it does not have to have a name. For example, the function square could have been defined as:_
+
+**onst square = function(number) { return number * number }**
+**var x = square(4) // x gets the value 16**
+
 
