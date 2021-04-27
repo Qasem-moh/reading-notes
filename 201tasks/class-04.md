@@ -87,3 +87,40 @@ _**sticky** (experimental): the element is treated like a relative value until t
 _**inherit**: the position value doesn’t cascade, so this can be used to specifically force it to, and inherit the positioning value from its parent._
 
 ![](https://hackernoon.com/drafts/t2w3yae.png)
+
+
+## Functions
+
+_Functions are one of the fundamental building blocks in JavaScript. A function in JavaScript is similar to a procedure—a set of statements that performs a task or calculates a value, but for a procedure to qualify as a function, it should take some input and return an output where there is some obvious relationship between the input and the output. To use a function, you must define it somewhere in the scope from which you wish to call it._
+
+**Function declarations**
+
+![](https://s3.amazonaws.com/codecademy-content/courses/learn-javascript-functions/Diagram/declaration.svg)
+
+_A function definition (also called a function declaration, or function statement) consists of the function keyword, followed by:_
+
+_The name of the function._
+_A list of parameters to the function, enclosed in parentheses and separated by commas._
+_The JavaScript statements that define the function, enclosed in curly brackets, {...}._
+_For example, the following code defines a simple function named square:_
+
+
+function square(number) {
+  return number * number;
+}
+
+_The function square takes one parameter, called number. The function consists of one statement that says to return the parameter of the function (that is, number) multiplied by itself. The statement return specifies the value returned by the function:_
+
+_return number * number;_
+
+_The function square takes one parameter, called number. The function consists of one statement that says to return the parameter of the function (that is, number) multiplied by itself. The statement return specifies the value returned by the function:_
+
+**return number * number;**
+
+
+_Primitive parameters (such as a number) are passed to functions by value; the value is passed to the function, but if the function changes the value of the parameter, this change is not reflected globally or in the calling function._
+
+_If you pass an object (i.e. a non-primitive value, such as Array or a user-defined object) as a parameter and the function changes the object's properties, that change is visible outside the function, as shown in the following example:_
+![](https://i.ytimg.com/vi/bkKuqKASG_8/maxresdefault.jpg)
+
+
