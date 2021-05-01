@@ -2,6 +2,8 @@
 
 **Images matter because…**
 
+![](https://d27jswm5an3efw.cloudfront.net/app/uploads/2019/07/insert-image-html-2-768x304.jpg)
+
 Studies show that people remember 80% what they see and only 20% what they read. In fact, there’s research that suggests that 65% of people are visual learners. MIT also found that the human brain can process images in as little as 13 milliseconds. These and many other statistics favor the idea that images are powerful means of communication. Perhaps, their most important function is that they remove language barriers, as they are easily understood by everyone in the world.
 
 On the Internet, images are used for all kinds of reasons: to enhance websites, to illustrate stories, in ad displays, to present products or services, as stand-alone “a picture is worth a thousand words” meaning-rich tools, and sure, on social media.
@@ -23,6 +25,7 @@ Image choice is part art, part science. The art comes down to trusting your choi
 
 Below we offer our best tips for choosing the best image for your needs, every single time.
 ***
+
 1. Use Emotional Images
 
 People make decisions with their emotions, and back things up later with logic.
@@ -95,5 +98,75 @@ If your site requires personal photos of your employees or company, then most ca
 
 Just keep in mind, if the images you’re uploading to your site are tiny, don’t work well with your content, or are slightly blurry, then scrap them and pick another one.
 
+***
+**Where to Store Images for Your Website**
 
-****
+When an image is ready for the web, you need to use the correct HTML5 markup to add it to your page, but you also need to know where to store your image.
+
+You can store images for your website in several places. Image storage works best if it uses relative URLs stored somewhere on the website with your other HTML files. You can store images in the same root as your HTML files, which gets confusing if you have a lot of files, or you can create a graphics or images directory in the root file for your website.
+
+Here are three compelling reasons to store images on your own site:
+
+* **Control**: When images reside on your site, you have complete control over them. You know your images aren’t going to disappear or change, and you can work to optimize them.
+
+* **Speed**: If you link to images on another site, you never know when that site may go down or respond unbelievably slowly. Linking to images on someone else’s site also causes the other site’s owner to pay for bandwidth required to display it on your pages — on another site!
+
+* **Copyright**: If you show images from another site on your pages, you may violate copyright laws. If you must do this, obtain permission from the copyright holder to store and display images on your website.
+
+***
+How to Insert an Image in HTML Page?
+
+Images can be easily inserted at any section in an HTML page. To insert image in an HTML page, use the <img'> tags. It is an empty tag, containing only attributes since the closing tag is not required.
+
+Just keep in mind that you should use the <img'> tag inside <body'>…</body'> tag. The src attribute is used to add the image source i.e. URL of the image. The alt attribute is for adding alternate text, width for adding width, and height for adding the height of the image.
+
+![](https://www.tutorialspoint.com/assets/questions/images/167928-1516185173.jpg)
+
+***
+
+## Color
+
+_The color property allows you to specify the color of text inside an element. You can specify any color in CSS in one of three ways:_
+
+* RGB values
+These express colors in terms of how much red, green and
+blue are used to make it up. For example: **rgb(100,100,90)**
+* HEX codes
+These are six-digit codes that represent the amount of red,
+green and blue in a color, preceded by a pound or hash #
+sign. For example:**#ee3e80**
+* color names
+There are 147 predefined color names that are recognized
+by browsers. For example: **DarkCyan**
+
+**Background Color**
+
+_background-color_
+
+_CSS treats each HTML element as if it appears in a box, and the background-color property sets the color of the background
+for that box._
+
+You can specify your choice of background color in the same three ways you can specify foreground colors:
+
+_RGB values,hex codes, and color names (covered on the next page)._
+
+If you do not specify a background color, then the background is transparent. By default, most browser windows have a white
+background, but browser users can set a background color for
+their windows, so if you want to be sure that the background
+is white you can use the background-color property on
+the <body'> element.
+***
+Every color on a computer screen is created by mixing amounts of red,
+green, and blue. To find the color you want, you can use a color picker.
+Computer monitors are made up of thousands of tiny squares
+called pixels (if you look very closely at your monitor you
+should be able to see them). When the screen is not turned
+on, it's black because it's not emitting any light. When it's
+on, each pixel can be a different color, creating a picture.
+The color of every pixel on the screen is expressed in terms of a mix of red, green, and blue —just like on a television screen Color picking tools are available in image editing programs like Photoshop and GIMP. You can see the RGB values specified next to the radio buttons that
+say R, G, B. The hex value is provided
+next to the pound or hash # symbol. There is also a
+good color picking tool at: colorschemedesigner.com
+
+![](https://i.ibb.co/rs7rcw0/2021-05-01-19-17.png)
+***
