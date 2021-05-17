@@ -9,3 +9,8 @@ To see how to use chart.js we’re going to create a set of 3 graphs; one will s
 ## Setting up
 
 ![chart](https://i.ibb.co/pPfd1jt/00.png)
+
+## Drawing a line chart
+
+To draw a line chart, the first thing we need to do is create a canvas element in our HTML in which Chart.js can draw our chart. So add this to the body of our HTML page:
+
