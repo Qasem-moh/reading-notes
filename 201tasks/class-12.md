@@ -22,3 +22,22 @@ Next, we need to write a script that will retrieve the context of the canvas, so
 
 Inside the same script tags we need to create our data, in this instance it’s an object that contains labels for the base of our chart and datasets to describe the values on the chart. Add this immediately above the line that begins ‘var buyers=’:
 ![](https://i.ibb.co/Gdyp7d3/03.png)
+
+## Drawing a pie chart
+
+Our line chart is complete, so let’s move on to our pie chart. First, we need the canvas element:
+
+![pie](https://i.ibb.co/KFbdt7q/04.png)
+
+Next, we need to get the context and to instantiate the chart:
+
+![](https://i.ibb.co/7R5hMr6/05.png)
+
+You’ll notice that this time, we are going to supply some options to the chart.
+
+Next we need to create the data. This data is a little different to the line chart because the pie chart is simpler, we just need to supply a value and a color for each section:
+
+![](https://i.ibb.co/DgVb7JJ/06.png)
+
+Now, immediately after the pieData we’ll add our options:
+![](https://i.ibb.co/DrdRFhF/07.png)
