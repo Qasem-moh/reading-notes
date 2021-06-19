@@ -61,7 +61,7 @@ my phone: 0798534701
 
 | Read No | Read Name                                                                 | Read Repo                                                               |
 | ------- | ------------------------------------------------------------------------- | ----------------------------------------------------------------------- |
-| Read 01 | '**'                                        | [Class01](https://qasem-moh.github.io/reading-notes/301/class-01)  |
+| Read 01 | Introduction to React and Components                                        | [Class01](https://qasem-moh.github.io/reading-notes/301/class-01)  |
 | Read 02 | '**' | [Read 02](https://qasem-moh.github.io/reading-notes/301/class-02)  |
 | Read 03 | '**'                 | [Read 03](https://qasem-moh.github.io/reading-notes/301/class-03)  |
 | Read 04 | '**'                        | [Read 04](https://qasem-moh.github.io/reading-notes/301/class-04)  |
