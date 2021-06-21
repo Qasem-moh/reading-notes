@@ -63,7 +63,7 @@ my phone: 0798534701
 | ------- | ------------------------------------------------------------------------- | ----------------------------------------------------------------------- |
 | Read 01 | Introduction to React and Components                                        | [Class01](https://qasem-moh.github.io/reading-notes/301/class-01)  |
 | Read 02 | State and Props | [Class02](https://qasem-moh.github.io/reading-notes/301/class-02)  |
-| Read 03 | '**'                 | [Read 03](https://qasem-moh.github.io/reading-notes/301/class-03)  |
+| Read 03 | Passing Functions as Props                 | [Read 03](https://qasem-moh.github.io/reading-notes/301/class-03)  |
 | Read 04 | '**'                        | [Read 04](https://qasem-moh.github.io/reading-notes/301/class-04)  |
 | Read 05 | '**'                             | [Read 05](https://qasem-moh.github.io/reading-notes/301/class-05)  |
 | Read 06 | '**'                          | [Read 06](https://qasem-moh.github.io/reading-notes/301/class-06)  |
