@@ -34,5 +34,36 @@
     const arrayTwo=['C','D']
     const bigArray=[...arrayOne,...arrayTwo]
     console.log(...bigArray)
+
 4- Give an example of using the spread operator to add a new item to an array.
+
+    const arrayOne=['A','B']
+    const bigArray=[...arrayOne,'C','D']
+    console.log(...bigArray)
+
+
 5- Give an example of using the spread operator to combine two objects into one
+
+    const user = {name: "Qasem"}
+    const userId = {id: 5}
+
+    const datauser = {...user,...userId}
+    console.log(datauser);
+
+
+1- In the video, what is the first step that the developer does to pass functions between components?
+
+    create  anew function and use state and map function
+
+2- In your own words, what does the increment function do?
+
+    it will change value by state goals
+
+3- How can you pass a method from a parent component into a child component?
+
+    by using setstate
+
+4- How does the child component invoke a method that was passed to it from a parent component?
+
+    bu using super()
+
