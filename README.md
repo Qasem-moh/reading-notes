@@ -65,8 +65,7 @@ my phone: 0798534701
 | Read 02 | State and Props | [Class02](https://qasem-moh.github.io/reading-notes/301/class-02)  |
 | Read 03 | Passing Functions as Props                 | [Read 03](https://qasem-moh.github.io/reading-notes/301/class-03)  |
 | Read 04 | React and Forms                       | [Read 04](https://qasem-moh.github.io/reading-notes/301/class-04)  |
-| Read 05 | Thinking in React
-                             | [Read 05](https://qasem-moh.github.io/reading-notes/301/class-05)  |
+| Read 05 | Thinking in React| [Read 05](https://qasem-moh.github.io/reading-notes/301/class-05)  |
 | Read 06 | '**'                          | [Read 06](https://qasem-moh.github.io/reading-notes/301/class-06)  |
 | Read 07 | '**'                       | [Read 07](https://qasem-moh.github.io/reading-notes/301/class-07)  |
 | Read 08 | '**'                                          | [Read 08](https://qasem-moh.github.io/reading-notes/301/class-08)  |
