@@ -98,10 +98,10 @@
 
 * What status code does a successful POST request return?
 
-        200
+        201
 
 
 * What status code does a successful DELETE request return?
 
-        200
+        204
 
