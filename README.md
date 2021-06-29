@@ -69,7 +69,7 @@ my phone: 0798534701
 | Read 06 | Nodejs                         | [Read 06](https://qasem-moh.github.io/reading-notes/301/class-06)  |
 | Read 07 | REST                       | [Read 07](https://qasem-moh.github.io/reading-notes/301/class-07)  |
 | Read 08 | APIs                                          | [Read 08](https://qasem-moh.github.io/reading-notes/301/class-08)  |
-| Read 09 | '**'                                         | [Read-09](https://qasem-moh.github.io/reading-notes/301/class-09) |
+| Read 09 | FUNCTIONAL PROGRAMMING                                         | [Read-09](https://qasem-moh.github.io/reading-notes/301/class-09) |
 | Read 10 | '**'                                                | [Read 10](https://qasem-moh.github.io/reading-notes/301/class-10)  |
 | Read 11 | '**'                                          | [Read 11](https://qasem-moh.github.io/reading-notes/301/class-11)  |
 | Read 12 | '**'       | [Read 12](https://qasem-moh.github.io/reading-notes/301/class-12)  |
