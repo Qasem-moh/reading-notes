@@ -45,3 +45,37 @@
 
 
 ***
+# JavaScript error messages && debugging
+
+1- What is a ‘refrence error’?
+
+        is wrong with your code is the (in)famous error message 
+
+2- What is a ‘syntax error’?
+
+        This is as simple as when you try to use a variable that is
+         not yet declared you get this type os errors.
+
+
+3- What is a ‘range error’?
+
+        Try to manipulate an object with some kind of length and
+         give it an invalid length and this kind of errors will show 
+        up.
+
+4- What is a ‘tyep error’?
+
+        Like the name indicates, this types of errors show up when 
+        the types (number, string and so on) you are trying to use 
+        or access are incompatible, like accessing a property in an
+         undefined type of variable.
+
+
+5- What is a breakpoint?
+
+        tools to testing a CODE step by step and show how running
+
+
+6- What does the word ‘debugger’ do in your code?
+
+        To debug your JS code
