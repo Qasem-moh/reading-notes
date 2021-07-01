@@ -9,6 +9,8 @@
 2- How many ‘calls’ can happen at once?
 
          steps 3
+
+         
 3- What does LIFO mean?
 
         LIFO: When we say that the call stack, operates by the data 
