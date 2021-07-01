@@ -79,3 +79,11 @@
 6- What does the word ‘debugger’ do in your code?
 
         To debug your JS code
+
+
+***
+
+# JavaScript error reference
+
+
+[Click here](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Errors)
