@@ -85,7 +85,7 @@ my phone: 0798534701
 
 ---
 
-## Code  401: amman-code-javascript-401d11: Advanced Software Development in Full-Stack JavaScript.
+## Advanced Software Development
 
 ## Table Of Content
 
