@@ -91,8 +91,8 @@ my phone: 0798534701
 
 | Read No | Read Name | Read Repo                                                          |
 | ------- | -------------------------------------------------------------------------      | -----------------------------------------------------------------------                    |
-| Read 01 | Solve Programming Problems        | [Class01](https://qasem-moh.github.io/reading-notes/401/class-01)  |
-| Read 02 | **        | [Class02](https://qasem-moh.github.io/reading-notes/401/class-02)  |
+| Read 01 | Solve Programming Problems        | [Read 01](https://qasem-moh.github.io/reading-notes/401/class-01)  |
+| Read 02 | **        | [Read 02](https://qasem-moh.github.io/reading-notes/401/class-02)  |
 | Read 03 | **        | [Read 03](https://qasem-moh.github.io/reading-notes/401/class-03)  |
 | Read 04 | **        | [Read 04](https://qasem-moh.github.io/reading-notes/401/class-04)  |
 | Read 05 | **        | [Read 05](https://qasem-moh.github.io/reading-notes/401/class-05)  |
