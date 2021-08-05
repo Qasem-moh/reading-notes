@@ -77,3 +77,33 @@ my phone: 0798534701
 | Read 14a | Diversity & Inclusion in the Tech Industry                                           | [Read 14](https://qasem-moh.github.io/reading-notes/301/class-14) |
 | Read 15 | Project Kickoff Readin | [Read 15](https://qasem-moh.github.io/reading-notes/301/class-15) |
 | Read 16 | '**'| [Read 16](https://qasem-moh.github.io/reading-notes/301/class-16) |
+
+
+
+
+
+
+---
+
+## Code  401: Intermediate Software Development course.
+
+## Table Of Content
+
+| Read No | Read Name                                                                 | Read Repo                                                               |
+| ------- | ------------------------------------------------------------------------- | ----------------------------------------------------------------------- |
+| Read 01 | **| [Class01](https://qasem-moh.github.io/reading-notes/401/class-01)  |
+| Read 02 | **| [Class02](https://qasem-moh.github.io/reading-notes/401/class-02)  |
+| Read 03 | **| [Read 03](https://qasem-moh.github.io/reading-notes/401/class-03)  |
+| Read 04 | **| [Read 04](https://qasem-moh.github.io/reading-notes/401/class-04)  |
+| Read 05 | **| [Read 05](https://qasem-moh.github.io/reading-notes/401/class-05)  |
+| Read 06 | **| [Read 06](https://qasem-moh.github.io/reading-notes/401/class-06)  |
+| Read 07 | **| [Read 07](https://qasem-moh.github.io/reading-notes/401/class-07)  |
+| Read 08 | **| [Read 08](https://qasem-moh.github.io/reading-notes/401/class-08)  |
+| Read 09 | **| [Read-09](https://qasem-moh.github.io/reading-notes/401/class-09)  |
+| Read 10 | **| [Read 10](https://qasem-moh.github.io/reading-notes/401/class-10)  |
+| Read 11 | **| [Read 11](https://qasem-moh.github.io/reading-notes/401/class-11)  |
+| Read 12 | **| [Read 12](https://qasem-moh.github.io/reading-notes/401/class-12)  |
+| Read 13 | **| [Read 13](https://qasem-moh.github.io/reading-notes/401/class-13)  |
+| Read 14 | **| [Read 14](https://qasem-moh.github.io/reading-notes/401/class-14)  |
+| Read 15 | **| [Read 15](https://qasem-moh.github.io/reading-notes/401/class-15)  |
+| Read 16 | **| [Read 16](https://qasem-moh.github.io/reading-notes/401/class-16)  |
