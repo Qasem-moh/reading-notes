@@ -1,71 +1,80 @@
-# Why Use Test Driven Development
+# Data Modeling
 
-## What is TDD?
-
-_Test Driven Development (TDD) is a software development practice enabling developers to create proper specifications about how their code should be written and implemented. Fundamentally, TDD is a practice when a programmer writes a functional test before building a code._
-
-_The idea of TDD originated in the middle of the 20th century, and since then has been applied in many areas. TDD was afterward rediscovered in 2002 by Kent Beck, an American Software Engineer and the creator of Extreme Programming methodology. He described it in his book Test Driven Development: By Example._
-
-_The original description of TDD was in an ancient book about programming. It said you take the input tape, manually type in the output tape you expect, then program until the actual output tape matches the expected output. After I'd written the first xUnit framework in Smalltalk I remembered reading this and tried it out. That was the origin of TDD for me. When describing TDD to older programmers, I often hear, "Of course. How else could you program?" Therefore I refer to my role as "rediscovering" TDD. - Kent Beck_
-
-The image below shows a typical test driven development cycle.
-
-![TDD](https://codica-images-production.s3.eu-central-1.amazonaws.com/0c6dbb1613ad4f93b9c793a96a71efd8.webp)
-
-This process includes the following stages:
-
-    1- Writing a test that fails because of code absence (red).
-    2- Writing a code after which the test is passed (green).
-    3-Refactoring - checking the code structure and its improvement
-       without changing its external behavior. The expected result of
-       refactoring is obtaining a perfectly written code
-
-By repeating this process for every single piece of functionality, a developer obtains full test code coverage, which will provide excellent design and easy application maintenance in the future.
-***
+### Review, Research, and Discussion
 
 
-# What are the advantages of TDD approach?
 
-1. Better program design and higher code quality
+1. Name 3 advantages to Test Driven Development
 
-        When writing tests, programmers first have to define a goal they will achieve with the code piece. Developers estimate an experience it will give and the way it will match with other pieces of the entire code. A developer keeps in mind everything, from an interface to a work plan.
-
-        Besides, TDD strongly evolves with the DRY principle. It says programmers should avoid repeating code in different system parts. The principle invites developers to use small classes and functions for particular requirements. This helps clearly define the system objects and keep the codebase successive.
-
-2. Detailed project documentation
-
-        When writing tests for particular requirements, programmers immediately create a strict and detailed specification. It already includes all the likely users’ actions.
-
-3. TDD reduces the time required for project development
-
-        It’s widely known that both web and cross-platform apps like PWAs created with Test Driven Development take longer than ones created without TDD. Some sources mention the difference of about 30 percent.
-
-        You would probably make a conclusion that TDD postpones your project delivery date. But is it really so?
-
-        According to the study held by Eric Elliott, founder of Parallel Drive, maintenance of an application made without Test Driven Development implementation may take twice as much time as of an application created with TDD.
-
-    ![](https://codica-images-production.s3.eu-central-1.amazonaws.com/2a39a5f3af33451593460e76bc648f1b.webp)
+- TDD reduces the time required for project development
+- Save project costs in the long run
+- Code flexibility and easier maintenance
+- With TDD you will get a reliable solution
 
 
-4. Code flexibility and easier maintenance
 
-        When writing code, developers strive to get fewer bugs, which 
-        considerably influences business spending.
+2. In what case would you need to use beforeEach() or afterEach() in a test suite?
 
-5. With TDD you will get a reliable solution
+- in the mocking tests, before testing and after testing 
 
-        With TDD, both you and the developers can be sure about the
-        reliability of the developed solution. That is, tests help to
-        understand if everything goes right after refactoring or adding a
-        new feature.
+3. What is one downside of Test Driven Development
 
-6. Save project costs in the long run
+- Tests need to be maintained when requirements change.
 
-        And last but not least - with TDD implementation, the cost of project development will significantly decrease.
+4. What’s the primary difference between ES6 Classes and Constructor/Prototype Classes?
 
-        This is the result of all the advantages mentioned previously, namely the following:
+- Classes can’t be called without new, but functions intended as constructors can (and their this will be wrong)
+- Classes can extend more types than constructors can (like functions and arrays)
+- Classes’ prototypes are their parents (they inherit static properties); writers of constructor functions usually don’t bother with this
 
-        1- The code that you will get will be maintainable, flexible and easy to extend.
-        2- The solution will be reliable for any further enhancements or development.
-        3- You will have ready documentation that can be used further on for any purposes.
-        4- The quality of the product developed with TDD is significantly higher.
+
+5. Why REST?
+
+- REST is Easy to Understand and Implement
+- REST Makes your Application More Scalable
+- No state
+- Faster Data Interchange Format
+- Caching is Easier with REST
+- REST is Flexibile
+
+
+
+
+
+
+### Document the following Vocabulary Terms
+
+1. functional programming 
+- it is a programming paradigm where you mostly construct and structure your code using functions.
+
+2. object-oriented programming (OOP) 
+- it is about creating objects that contain both data and functions.
+
+3. class 
+- it's a special functions in ES6, it's like a bluebrint for data modeling.
+
+4. super  
+- we use this when extending the class, to inherit the previous properties from the parent class.
+
+5. this 
+- it is a keyword in javascript that refers to the scope that will be called in.
+
+6. Test Driven Development (TDD) 
+- it's a software development practice, by testing then correct the test, then refactor the code.
+
+7. Jest
+- it is a JavaScript testing framework designed to ensure correctness of any JavaScript codebase. It allows you to write tests.
+
+8. Continuous Integration (CI)
+- it is the practice of automating the integration of code changes from multiple contributors into a single software project.
+
+9. REST
+- REpresentational State Transfer, is an architectural style for providing standards between computer systems on the web, making it easier for systems to communicate with each other.
+
+10. Data Model
+- Data Model is the modeling of the data description, data semantics, and consistency constraints of the data. It provides the conceptual tools for describing the design of a database at each level of data abstraction. there are four data models used for understanding the structure of the database.
+
+
+[ref1](https://www.codica.com/blog/test-driven-development-benefits/)
+[ref2](https://subscription.packtpub.com/book/application_development/9781785880735/1/ch01lvl1sec12/disadvantages-of-tdd)
+[ref3](https://stackoverflow.com/questions/49643582/what-is-the-difference-between-prototype-based-class-syntax-and-class-syntax-in)
