@@ -97,9 +97,9 @@ my phone: 0798534701
 | Read 03 | Express_REST_API                  | [Read 03](https://qasem-moh.github.io/reading-notes/401/class-03)  |
 | Read 04 | Data Modeling                     | [Read 04](https://qasem-moh.github.io/reading-notes/401/class-04)  |
 | Read 05 | Linked Lists                      | [Read 05](https://qasem-moh.github.io/reading-notes/401/class-05)  |
-| Read 06 | **                                | [Read 06](https://qasem-moh.github.io/reading-notes/401/class-06)  |
-| Read 07 | **                                | [Read 07](https://qasem-moh.github.io/reading-notes/401/class-07)  |
-| Read 08 | **                                | [Read 08](https://qasem-moh.github.io/reading-notes/401/class-08)  |
+| Read 06 | Hashing Function                  | [Read 06](https://qasem-moh.github.io/reading-notes/401/class-06)  |
+| Read 07 | JWT                               | [Read 07](https://qasem-moh.github.io/reading-notes/401/class-07)  |
+| Read 08 | ACL                               | [Read 08](https://qasem-moh.github.io/reading-notes/401/class-08)  |
 | Read 09 | **                                | [Read-09](https://qasem-moh.github.io/reading-notes/401/class-09)  |
 | Read 10 | **                                | [Read 10](https://qasem-moh.github.io/reading-notes/401/class-10)  |
 | Read 11 | **                                | [Read 11](https://qasem-moh.github.io/reading-notes/401/class-11)  |
