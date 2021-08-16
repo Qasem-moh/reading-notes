@@ -17,7 +17,6 @@
 - array is a static data structure, that means when the array created will allocate a certain space in memory, and this will be fixed even the number of elements inside the array decreased or increased. and every time will allocate the same space directly.
 - linked lists are a dynamic data structure, that means every time we add a new element or node inside the linked list will allocate a small space for this element only, and every element will take a special space for it when it's created.
 - also in dynamic data structure, the allocated spaces will be in different places depending on the element itself. but in static will be at the same place.
-![](https://miro.medium.com/max/2400/1*K0_eV07tJtKQSVGKfP18bw.jpeg)
 
 # What’s a Linked List, pt2
 
@@ -27,4 +26,3 @@
 - O(n) : means that as our input grows, the space and time that we need to run that algorithm grows linearly.
 - a linked list is usually efficient when it comes to adding and removing most elements, but can be very slow to search and find a single element.
 
-![arrays Vs linked lists](https://miro.medium.com/max/700/1*cUehR5S18XSoVLaPNfNzlA.jpeg)
