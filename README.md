@@ -100,7 +100,7 @@ my phone: 0798534701
 | Read 06 | Hashing Function                  | [Read 06](https://qasem-moh.github.io/reading-notes/401/class-06)  |
 | Read 07 | JWT                               | [Read 07](https://qasem-moh.github.io/reading-notes/401/class-07)  |
 | Read 08 | ACL                               | [Read 08](https://qasem-moh.github.io/reading-notes/401/class-08)  |
-| Read 09 | **                                | [Read-09](https://qasem-moh.github.io/reading-notes/401/class-09)  |
+| Read 09 | OAuth                             | [Read-09](https://qasem-moh.github.io/reading-notes/401/class-09)  |
 | Read 10 | **                                | [Read 10](https://qasem-moh.github.io/reading-notes/401/class-10)  |
 | Read 11 | **                                | [Read 11](https://qasem-moh.github.io/reading-notes/401/class-11)  |
 | Read 12 | **                                | [Read 12](https://qasem-moh.github.io/reading-notes/401/class-12)  |
