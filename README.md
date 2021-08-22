@@ -103,7 +103,7 @@ my phone: 0798534701
 | Read 09 | OAuth                             | [Read-09](https://qasem-moh.github.io/reading-notes/401/class-09)  |
 | Read 10 | Stacks & Queues                   | [Read 10](https://qasem-moh.github.io/reading-notes/401/class-10)  |
 | Read 11 | Event Driven Applications         | [Read 11](https://qasem-moh.github.io/reading-notes/401/class-11)  |
-| Read 12 | **                                | [Read 12](https://qasem-moh.github.io/reading-notes/401/class-12)  |
+| Read 12 | Socket.io                         | [Read 12](https://qasem-moh.github.io/reading-notes/401/class-12)  |
 | Read 13 | **                                | [Read 13](https://qasem-moh.github.io/reading-notes/401/class-13)  |
 | Read 14 | **                                | [Read 14](https://qasem-moh.github.io/reading-notes/401/class-14)  |
 | Read 15 | **                                | [Read 15](https://qasem-moh.github.io/reading-notes/401/class-15)  |
