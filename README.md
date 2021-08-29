@@ -108,3 +108,5 @@ my phone: 0798534701
 | Read 14 | Event Driven Architecture         | [Read 14](https://qasem-moh.github.io/reading-notes/401/class-14)  |
 | Read 15 | TREE                              | [Read 15](https://qasem-moh.github.io/reading-notes/401/class-15)  |
 | Read 16 | AWS: Cloud Servers                | [Read 16](https://qasem-moh.github.io/reading-notes/401/class-16)  |
+| Read 16 | AWS: S3 and Lambda                | [Read 17](https://qasem-moh.github.io/reading-notes/401/class-17)  |
+
