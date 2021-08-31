@@ -110,4 +110,4 @@ my phone: 0798534701
 | Read 16 | AWS: Cloud Servers                | [Read 16](https://qasem-moh.github.io/reading-notes/401/class-16)  |
 | Read 17 | AWS: S3 and Lambda                | [Read 17](https://qasem-moh.github.io/reading-notes/401/class-17)  |
 | Read 18 | AWS: API, Dynamo and Lambda       | [Read 18](https://qasem-moh.github.io/reading-notes/401/class-18)  |
-
+| Read 18 | Events                            | [Read 19](https://qasem-moh.github.io/reading-notes/401/class-19)  |
