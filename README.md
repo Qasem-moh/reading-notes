@@ -112,4 +112,4 @@ my phone: 0798534701
 | Read 18 | AWS: API, Dynamo and Lambda       | [Read 18](https://qasem-moh.github.io/reading-notes/401/class-18)  |
 | Read 19 | Events                            | [Read 19](https://qasem-moh.github.io/reading-notes/401/class-19)  |
 | Read 26 |  Component Based UI               | [Read 19](https://qasem-moh.github.io/reading-notes/401/class-26)  |
-| Read 26 |  useState() Hook                  | [Read 19](https://qasem-moh.github.io/reading-notes/401/class-27)  |
+| Read 27 |  useState() Hook                  | [Read 19](https://qasem-moh.github.io/reading-notes/401/class-27)  |
