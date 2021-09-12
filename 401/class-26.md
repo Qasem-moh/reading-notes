@@ -35,17 +35,17 @@
 
 * React.createElement() performs a few checks to help you write bug-free code but essentially it creates an object called React elements
 
-``const element = {``
+        const element = {
 
-``type: 'h1',``
+        type: 'h1',
 
-``props: {``
+        props: {
 
-``className: 'greeting',``
+        className: 'greeting',
 
-``children: 'Hello, world!'``
-``}``
-``};``
+        children: 'Hello, world!'
+        }
+        };
 
 * Applications built with just React usually have a single root DOM node. If you are integrating React into an existing app, you may have as many isolated root DOM nodes as you like.
 * React elements are immutable. Once you create an element, you can’t change its children or attributes.
