@@ -48,20 +48,20 @@
 
 * Composing Components
 
-``function App() {``
+        function App() {
 
-  ``return (``
+        return (
 
-  ``<React.Fragment>``
+        <React.Fragment>
 
-   ``<first Components/>``
+        <first Components/>
 
-   ``<second Components" />``
+        <second Components" />
 
-``</React.Fragment>``
+        </React.Fragment>
 
-  ``);``
-``}``
+        );
+        }
 
 
 ``ReactDOM.render(``
