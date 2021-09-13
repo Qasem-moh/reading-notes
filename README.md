@@ -113,3 +113,4 @@ my phone: 0798534701
 | Read 19 | Events                            | [Read 19](https://qasem-moh.github.io/reading-notes/401/class-19)  |
 | Read 26 |  Component Based UI               | [Read 26](https://qasem-moh.github.io/reading-notes/401/class-26)  |
 | Read 27 |  useState() Hook                  | [Read 27](https://qasem-moh.github.io/reading-notes/401/class-27)  |
+| Read 28 |  Component Lifecycle              | [Read 28](https://qasem-moh.github.io/reading-notes/401/class-28)  |
