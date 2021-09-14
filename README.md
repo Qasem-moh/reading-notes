@@ -114,3 +114,4 @@ my phone: 0798534701
 | Read 26 |  Component Based UI               | [Read 26](https://qasem-moh.github.io/reading-notes/401/class-26)  |
 | Read 27 |  useState() Hook                  | [Read 27](https://qasem-moh.github.io/reading-notes/401/class-27)  |
 | Read 28 |  Component Lifecycle              | [Read 28](https://qasem-moh.github.io/reading-notes/401/class-28)  |
+| Read 29 |  Advanced State with Reducers     | [Read 29](https://qasem-moh.github.io/reading-notes/401/class-29)  |
