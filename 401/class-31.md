@@ -22,3 +22,6 @@
 3. Only call Hooks from React functional components
 4. Never call a Hook from a regular function
 5. Hooks can call other Hooks
+
+# Term 
+* **React Composition** is a development pattern based on React's original component model where we build components from other components using explicit defined props or the implicit children prop
