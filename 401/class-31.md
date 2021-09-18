@@ -9,3 +9,8 @@
 * Hook use in the top level of the React functions
 * Hooks return to react function only ; can't use in JS function 
 * ``Hook state`` is method to declare state in react function 
+
+* **useEffect** : use to replace a lifecycle method , and  when we have side effects that need to happen along with each change
+* **useState** :  use to access state and you can call useState as many times as you want, like with setState
+* **useContext** :how to consume a provider using a hook, Accepts a context object
+
