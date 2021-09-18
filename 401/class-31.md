@@ -20,3 +20,5 @@
 1. Never call Hooks from inside a loop, condition or nested function
 2. Hooks should sit at the top-level of your component
 3. Only call Hooks from React functional components
+4. Never call a Hook from a regular function
+5. Hooks can call other Hooks
