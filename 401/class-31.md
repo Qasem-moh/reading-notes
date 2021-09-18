@@ -25,3 +25,19 @@
 
 # Term 
 * **React Composition** is a development pattern based on React's original component model where we build components from other components using explicit defined props or the implicit children prop
+
+*  **Children** allow you to pass components as data to other components, just like any other prop you use. The special thing about children is that React provides support through its ReactElement API and JSX. XML children translate perfectly to React children
+
+* **Hash Routing** Using the anchor part of the URL to simulate different content.
+
+* **Link Routing** Provides declarative, accessible navigation around your application.
+
+# Q
+1. Why do we not need more .html pages in a multi-page React app?  
+- Because we use SP concept to build react App; so we render all component in the same page after load server 
+
+2. If we wanted a component to show up on every page, where would we put it and why?
+- Inside the ``<BrowserRouter />`` and outside ``<Route />``  
+
+3. What does props.children contain?
+- every thing between the opening and closing tag 
