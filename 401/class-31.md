@@ -14,3 +14,9 @@
 * **useState** :  use to access state and you can call useState as many times as you want, like with setState
 * **useContext** :how to consume a provider using a hook, Accepts a context object
 
+
+
+## Five Important Rules for Hooks
+1. Never call Hooks from inside a loop, condition or nested function
+2. Hooks should sit at the top-level of your component
+3. Only call Hooks from React functional components
