@@ -125,4 +125,5 @@ my phone: 0798534701
 | Read 35 |  Graphs                           | [Read 35](https://qasem-moh.github.io/reading-notes/401/class-35)  |
 | Read 36 |  State with Redux                 | [Read 36](https://qasem-moh.github.io/reading-notes/401/class-36)  |
 | Read 37 |  Combined Reducers                | [Read 37](https://qasem-moh.github.io/reading-notes/401/class-37)  |
+| Read 38 |  Redux - Asynchronous Actions     | [Read 38](https://qasem-moh.github.io/reading-notes/401/class-38)  |
 
